@@ -30,4 +30,4 @@ Pemeriksaan sintaks PHP berhasil. Pengujian Laravel menghasilkan 12 tes berhasil
 Endpoint Products berhasil dilengkapi dengan pagination, pencarian, sorting, dan validasi parameter. Pengujian Postman menunjukkan respons berhasil untuk parameter yang valid dan respons 422 untuk parameter yang tidak valid.
 
 ## 6. Bukti Pengujian
-Screenshot gabungan seluruh hasil pengujian disimpan pada `docs/bukti-pengujian-minggu-6.png`.
+![Bukti pengujian Praktikum 6](bukti-pengujian-minggu-6.png)
