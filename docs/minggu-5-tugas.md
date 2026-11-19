@@ -1,4 +1,7 @@
 # Tugas 5 — CRUD Resource Utama
+## Bukti Pengujian API
+Berikut merupakan dokumentasi hasil pengujian CRUD REST API menggunakan Postman.
+![Bukti Pengujian CRUD REST API Minggu 5](bukti-pengujian-minggu-5.png)
 
 ## 1. Tujuan
 

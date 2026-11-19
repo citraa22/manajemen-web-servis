@@ -32,4 +32,5 @@ Pengujian dilakukan menggunakan Postman dengan header `Accept: application/json`
 Berdasarkan pengujian, endpoint `GET /api/products` berhasil menerapkan fitur pencarian, sorting, pagination, dan validasi parameter. Pengujian melalui Postman menunjukkan bahwa permintaan valid mendapatkan respons 200 OK, sedangkan parameter yang tidak sesuai ketentuan mendapatkan respons 422.
 
 ### 5. Bukti Pengujian
-Bukti pengujian menggunakan Postman disimpan pada file `bukti-pengujian-minggu-6.png` di folder `docs`.
+Bukti pengujian menggunakan Postman disimpan pada file `bukti-pengujian-minggu-6.png` di folder `docs`  
+![Bukti Pengujian Minggu 6 ](bukti-pengujian-minggu-6.png)
